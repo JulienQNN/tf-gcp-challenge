@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"bigquery_dataset","Source":"./modules/bigquery_dataset","Dir":"modules/bigquery_dataset"},{"Key":"cloud_function","Source":"./modules/cloud_function","Dir":"modules/cloud_function"},{"Key":"storage_bucket","Source":"./modules/storage_bucket","Dir":"modules/storage_bucket"}]}
